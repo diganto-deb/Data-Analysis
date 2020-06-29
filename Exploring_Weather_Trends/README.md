@@ -1,7 +1,7 @@
 ## Exploring Weather Trends
 ### Summary
 In this project, I analyzed local and global temperature data and compare the temperature trends
-where I live (Bang![result.png](attachment:result.png)alore) to overall global temperature trends.
+where I live (Bangalore) to overall global temperature trends.
 ### Project outline
 Goal is to create a visualize and prepare a write up describing the similarities and differences
 between global temperature trends and temperature trends in Bangalore. To do this:
